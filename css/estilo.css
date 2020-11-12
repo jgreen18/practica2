@@ -1,0 +1,624 @@
+/*HEAD*/
+		.head{
+			background-color: black;
+			/*min-height: 3em;*/
+			/*margin:auto;*/
+			margin-top: 0px;	
+		}
+
+		.head p{
+			
+			margin-top: 0px;	
+		}
+
+		.head1{
+			width: 49%;
+			min-height: 1em;
+			
+			display: inline-block;
+			margin: 0px;
+		}
+		.head1 p{
+			font-size: 12px;
+			margin: 0;
+			color:#8e8181;
+			text-align: center;
+		}
+		.head2{
+			width: 49%;
+			
+			display: inline-block;
+			
+		}
+		.head2 li{
+			margin: 0px;
+			color:#8e8181;
+			font-size: 12px;
+			/*list-style-type: none;*/
+			display: inline-block;
+		}
+		.head2 ul{
+			margin: 0px;
+			
+		}
+		.head2 a{
+			text-decoration: none;
+			color: white;
+		}
+
+/*MENU LOGO*/
+		.logom{
+			background-color: #7479a0;
+			/*min-height: 3em;*/
+			/*margin:auto;*/
+			margin-top: 0px;	
+
+		}
+
+		.logom1{
+			width: 49%;
+			min-height: 1em;
+
+			display: inline-block;
+			margin: 0px;
+			text-align: center;
+
+			/*background-color: red;*/
+		}
+		.logom1 img
+		 {
+		 	float: left;
+			display: inline-block;
+			margin-left: 25%;
+				}
+				.logom1 h1{
+					padding-top: 10px;
+					float: left;
+			display: inline-block;
+			color: white;
+				}
+		.logom2{
+			float: right;
+			width: 49%;
+			min-height: 100px;
+
+			display: inline-block;
+			/*background-color: blue;*/
+			/*margin-left: 20px;*/
+		}
+		.logom2 h1{
+			font-family: cursive;
+			font-weight: 1;
+			color: #815f77;
+			font-size: 5em;
+			margin: 0px;
+		}
+		.logom2 h2{
+			font-weight: 1;
+			color: blue;
+			font-size: 3em;
+			margin: 0px;
+		}
+		.logom2 h3{
+			color: #474141;
+		}
+		.logom2 li{
+			
+			/*color:#8e8181;*/
+			color: white;
+			font-size: 1.3em;
+
+			
+			display: inline-block;
+						
+		}
+		.logom2 ul{
+			
+			color: white;
+			padding: 0px;
+			padding-top: 10px;
+			display: inline-block;
+
+		}
+
+
+		.logom3{
+			float: right;
+			width: 49%;
+			min-height: 100px;
+
+			display: inline-block;
+			/*background-color: blue;*/
+			margin-left: 20px;
+		}
+		.logom3 h1{
+			font-family: cursive;
+			font-weight: 1;
+			color:#902a72;
+			font-size: 9em;
+			margin: 0px;
+			margin-left: 50px;
+		}
+		.logom3 h2{
+			font-weight: 1;
+			color: #5050a0;
+			font-size: 5em;
+			margin: 0px;
+			margin-left: 150px;
+			margin-bottom: 40px;
+		}
+		.logom3 h3{
+			color: #474141;
+		    font-size: 2em;
+		    margin: 0px;
+		    margin-left: 230px;
+		    font-weight: 1;
+		    margin-bottom: 5px;
+		}
+		.logom3 li{
+			
+			/*color:#8e8181;*/
+			color: white;
+			font-size: 1.3em;
+
+			
+			display: inline-block;
+						
+		}
+		.logom3 ul{
+			
+			color: white;
+			padding: 0px;
+			padding-top: 10px;
+			display: inline-block;
+
+		}
+		
+		.logom4{
+			width: 49%;
+			position: relative;
+
+
+			display: inline-block;
+			margin: 0px;
+			text-align: center;
+
+			/*background-color: red;*/
+		}
+		.logom4 img
+		 {
+		/*top:100px;*/
+		 	/*position: relative;*/
+				}
+				.boton{
+				width:15%;
+				margin:auto;
+				margin-top: 2em;
+				padding: 10px;
+				background-color:#b11e87;
+				border-radius:25px; 
+				margin-left: 265px; 
+			}
+			.boton a{
+				color: white; 
+				text-align: center;
+				margin: auto;
+				margin-left: 25px;
+				text-decoration: none;
+			}
+
+/*yoga fat*/
+		.yf{
+			width: 100%;
+			/*background-color: red;*/
+			min-height: 2em;
+			margin: 0px;
+			text-align: center;
+
+		}
+		.yf h1{
+			margin: 0px;
+			padding-top: 2em;
+			font-size: 5em;
+			font-weight: 1;
+			color: #cb39a0;
+		}
+		.yf h2{
+			margin: 0px;
+
+			font-size: 5em;
+			font-weight: 900;
+			color: #8b8ddc;
+		}
+		.yf p{
+			font-size: 22px;
+			margin: auto;
+			width: 60%;
+			margin-bottom: 3em;
+		}
+
+		.yf1{
+			width: 30%;
+			min-height: 2em;
+			/*background-color: red;*/
+			display: inline-block;
+
+		} 
+		.yf2{
+			width: 30%;
+			min-height: 2em;
+			/*background-color: red;*/
+			display: inline-block;
+
+		}
+		.yf3{
+			width: 30%;
+			min-height: 2em;
+			/*background-color: red;*/
+			display: inline-block;
+
+		}
+
+		.f111 h3{
+			font-weight: 1;
+			margin: 0px;
+			font-size: 30px;
+
+		}
+		.f111  p{
+			margin: auto;
+			font-size: 17px;
+			margin-top: 15px;
+			width: 90%;
+
+		}
+		.f111{
+			text-align: center;
+			width: 80%;
+			float: left;
+			/*background-color: blue;*/
+			min-height: 1em;
+			/*margin: 0px;*/
+			margin-bottom: 2em;
+		}
+		.f112{
+			width: 20%;
+			float: right;
+			/*background-color: green;*/
+			min-height: 1em;
+
+		}
+
+
+		.f211{
+			text-align: center;
+			width: 80%;
+			float: right;
+			/*background-color: blue;*/
+			min-height: 1em;
+			/*margin: 0px;*/
+			margin-bottom: 2em;
+		}
+
+		.f211 h3{
+			font-weight: 1;
+			margin: 0px;
+			font-size: 30px;
+
+		}
+		.f211  p{
+			margin: auto;
+			font-size: 17px;
+			margin-top: 15px;
+			width: 90%;
+
+		}
+		.f212{
+			width: 20%;
+			float: left;
+			/*background-color: green;*/
+			min-height: 1em;
+
+		}
+
+
+/*chose your Classes and Start Your Training*/
+	.cy{
+		background-color:#11a3b18a;
+				min-height: 2em;
+				margin: 0px;
+				text-align: center;
+				float: left;
+				width: 100%;
+				margin-top: 25px;
+	}
+	.cy h2{
+				/*margin: 0px;*/
+
+				font-size: 3em;
+				font-weight: 1;
+				color: white;
+		}
+
+	.cy1{
+		float: left;
+		width:69%;
+		/*background-color: blue;*/
+		display: inline-block;
+	}
+	.cy2{
+		float: right;
+		width: 30%;
+		/*background-color: green;*/
+		display: inline-block;
+
+	}
+
+	.botoncy{
+		width: 25%;
+	    margin: auto;
+	    margin-top: 4em;
+	    padding: 10px;
+	    /* background-color: #b11e87; */
+	    border-style: solid;
+	    border-color: white;
+	    border-radius: 25px;
+	    margin-left: 180px;
+	}
+	.botoncy a{
+		color: white; 
+		text-align: center;
+		
+		text-decoration: none;
+	}
+
+
+/*Our Classes*/
+	.uo{
+		/*background-color:#11a3b18a;*/
+				min-height: 2em;
+				margin: 0px;
+				text-align: center;
+				float: left;
+				width: 100%;
+				margin-top: 25px;
+	}
+	.uo h1{
+				/*margin: 0px;*/
+
+				font-size: 3em;
+				font-weight: 1;
+				color: black;
+		}
+
+	.uo1{
+		width: 90%;
+		margin: auto;
+		min-height: 1em;
+		/*background-color: red;*/
+	}
+	.uod{ 
+		display: inline-block;
+		width: 30%;
+		min-height: 1em;
+		/*background-color: blue;*/
+		margin-right: 30px;
+		/*background-image: url("imagenes/pg.jpg"); */
+	}
+
+	/*.uod img:hover{
+		opacity: .5;
+		background-color: pink;
+	}*/
+
+
+/*JG*/
+ 	.jg{
+ 		padding-top: 3em;
+ 		opacity: .5;
+		/*background-color:#11a3b18a;*/
+				min-height: 2em;
+				margin: 0px;
+				text-align: center;
+				float: left;
+				width: 100%;
+				/*margin-top: 25px;*/
+				color: white;
+			/* The image used */
+			background-image: url("../imagenes/images.jfif");
+
+			
+
+			/* Create the parallax scrolling effect */
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+	}
+	.jg h3{
+		width: 60%;
+		margin:auto;
+		font-size: 31px;
+   		 line-height: 40px;
+   		 margin-bottom:  2em;
+	}
+	.jg img{
+		
+   		 margin-bottom:  2em;
+	}
+
+
+/*classes timetable*/
+	.ct{
+			/*background-color:#11a3b18a;*/
+					min-height: 2em;
+					margin: 0px;
+					text-align: center;
+					float: left;
+					width: 100%;
+					margin-top: 25px;
+		}
+		.ct h1{
+					/*margin: 0px;*/
+
+					font-size: 3em;
+					font-weight: 1;
+					color: black;
+			}
+
+		.ct table{
+			/*border-style: solid;*/
+			text-align: center;
+			margin: auto;
+		}
+		.ct tr{
+			/*border-style: solid;*/
+		}
+		.ct th{
+			width: 10em;
+			/*min-height: 10em;*/
+			/*border-style: solid;*/
+		}
+		.ct2{
+			min-height: 2em;
+					margin: 0px;
+					text-align: center;
+					float: left;
+					width: 65%;
+				margin-left: 105px;
+					margin-top: 25px;
+					margin-bottom:  25px;
+					/*background-color: red	;*/
+		}
+		.ae{
+			display: inline-block;
+			float: left;
+			
+			margin-left: 20px;
+
+		}
+		.ae a{
+
+			text-decoration: none;
+		}
+		
+		#bc{
+			border-bottom-style:solid; 
+		}
+		.ae h3{
+			display: inline-block;
+
+			
+			
+			
+		}
+		#ky{
+			background-color: #e6bd5d;
+		}
+
+		#mf{
+			background-color: #75dcdb;
+		}
+		#ay{
+			background-color: #ea52bf;
+		}
+		#yd{
+			background-color: #3e72d8;
+		}
+		#hy{
+			background-color: #e6955d;
+		}
+		#wh{
+			background-color:#d0c6c6;
+		}
+
+
+/*mary sheldon*/
+	.ms{
+				background-color:#11a3b18a;
+						min-height: 2em;
+						margin: 0px;
+						text-align: center;
+						float: left;
+						width: 100%;
+						margin-top: 25px;
+			}
+
+	.ms2{
+			background-color:#11a3b18a;
+			min-height: 2em;
+
+			margin: auto;
+			text-align: center;
+			/*float: left;*/
+			width: 80%;
+			margin-top: 25px;
+						margin-bottom: 25px;
+			border-style: solid;
+			border-color: white;
+	}
+
+	.ms22{
+	min-height: 103px;
+    width: 12%;
+    /*background-color: red;*/
+    display: inline-block;
+    border-radius: 50%;
+    
+    margin-top: 2em;
+    background-image: url("../imagenes/mary.jpg");
+    background-repeat: no-repeat;
+
+   
+   
+			}
+
+	.ms23{
+				min-height: 2em;
+						width: 25%;
+						/*background-color:blue;*/
+						display: inline-block;
+			}
+			.ms23 img{
+						display: inline-block;
+			}
+
+	.ms24{			
+				min-height: 2em;
+						width: 49%;
+						/*background-color: green;*/
+						display: inline-block;
+						font-size: 14px;
+			}
+
+/*Venter Your body and mind*/
+
+	.cb{
+				background-color:#9e9b9b;
+						min-height: 2em;
+						margin: 0px;
+
+						float: left;
+						padding-top:  3em;
+						width: 100%;
+						
+			}
+			.cb img{
+				float: left;
+				margin-left: 4em;	
+			}
+
+			.cb1{
+				/*background-color:blue;*/
+						min-height: 2em;
+						margin: 0px;
+						/*display: inline-block;*/
+
+						float: left;
+						margin-top: 100px;
+						text-align: right;
+						width: 41%;
+						font-size: 25px;
+						line-height: 40px;
+						
+			}
