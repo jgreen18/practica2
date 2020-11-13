@@ -62,10 +62,11 @@
 	min-height: 50px;
 	border-style: outset;
 	border-color: white;
-}
-#shop{
-	
-}
+	}
+	#shop{
+
+	}
+
 
 /*up*/
 	.up{
@@ -98,6 +99,10 @@
 			/*margin:auto;*/
 			margin-top: 0px;	
 			width: 100%;
+
+		}
+		.logom a{
+			color: white;
 
 		}
 
@@ -222,10 +227,18 @@
 				margin:auto;
 				margin-top: 2em;
 				padding: 10px;
-				background-color:#b11e87;
+				/*background-color:#b11e87;*/
 				border-radius:25px; 
+				border-style: solid;
+				border-color: white;
 				margin-left: 265px; 
 			}
+	
+			.boton:hover{
+				background-color:#b11e87;
+			}
+		
+
 			.boton a{
 				color: white; 
 				text-align: center;
@@ -522,9 +535,20 @@
 
 			text-decoration: none;
 		}
+		#bcc{
+			border-color: white;
+			border-bottom-style:solid;
+
+		}
+		#bcc:hover{
+			border-color: black;
+			border-bottom-style:solid;
+
+		}
 		
 		#bc{
-			border-bottom-style:solid; 
+			border-bottom-style:solid;
+
 		}
 		.ae h3{
 			display: inline-block;
@@ -730,11 +754,14 @@
 					margin:auto;
 					margin-top: 2em;
 					padding: 10px;
-					background-color:#b11e87;
+					/*background-color:#b11e87;*/
 					border-style: solid;
 					border-color: white;
 					border-radius:25px; 
 					margin-left: 42em; 
+				}
+				.botons:hover{
+					background-color:#b11e87;
 				}
 				.botons a{
 					color: black; 
@@ -791,6 +818,9 @@
 						margin-left: 20px;
 						 
 					}
+	.botoninf:hover{
+	background-color:#b11e87;
+}
 					.botoninf a{
 						color: black; 
 						text-align: center;
@@ -891,6 +921,10 @@
 
 					list-style-type: none;
 					margin-bottom: 3em;
+
+				}
+				.final a{
+					color: white;
 
 				}
 	.final li{
